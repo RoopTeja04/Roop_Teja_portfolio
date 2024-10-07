@@ -106,19 +106,19 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        "I thought it was impossible to make a website as beautiful as our product, but he proved me wrong.",
       name: "Charan Reddy",
       designation: "Front End Developer",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
+        "I've never met a web developer who truly cares about their clients' success like he does.",
       name: "Sainath Annavaram",
       designation: "Back End Developer",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "After optimized your website, our traffic increased by 50%. We can't thank them enough!",
       name: "Bhavana K",
       designation: "Junior Developer",
       company: "TCS",
