@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 
 import { styles } from '../styles';
 import { ComputersCanvas } from './canvas';
+import { Link } from 'react-router-dom';
 
 const Hero = () => {
   return (
@@ -17,6 +18,7 @@ const Hero = () => {
           <h1 className={`${styles.heroHeadText} text-white`}>Hi, I'm <span className='text-[#915eff]'>Teja</span></h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>I Develop Visually Stunning Websites, <br className='sm:block hidden'/> Code That Speaks to Users.</p>
         </div>
+        
       </div>
       
       <ComputersCanvas />
@@ -31,6 +33,7 @@ const Hero = () => {
           </div>
         </a>
       </div>
+      <a href='https://drive.google.com/file/d/1WtHlahc8sDMk8-1cMPGr9uKg4-FOyGtf/view?usp=sharing' className='absolute top-80 left-56 border-b-2 underline-offset-2 hover:text-green-500'>View Resume</a>
     </section>
   )
 }

@@ -1,8 +1,31 @@
-# React + Vite
+# Roop Teja's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio repository! This project showcases my skills and projects as a frontend developer.
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I am a passionate frontend developer from India with experience in building dynamic and scalable web applications. Currently, I am working on E-commerce and Banking applications. I am also learning Java and Data Structures & Algorithms in Python.
+
+- **Portfolio Website:** [https://rooptejaportfolio.netlify.app/](https://rooptejaportfolio.netlify.app/)
+- **GitHub Profile:** [https://github.com/RoopTeja04](https://github.com/RoopTeja04)
+
+## Technologies Used
+
+- **Frontend:** React.js
+- **Styling:** Tailwind CSS
+- **Build Tool:** Vite
+
+## Features
+
+- Responsive design optimized for both desktop and mobile devices.
+- Showcases various projects with descriptions and links.
+- Includes information about my skills, experience, and contact details.
+
+## Installation
+
+To run this project locally:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/RoopTeja04/Roop_Teja_portfolio.git
