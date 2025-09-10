@@ -16,6 +16,7 @@ import {
   bankera,
   Weather_API,
   RBAC_UI,
+  TWM
 } from "../assets";
 
 export const navLinks = [
@@ -43,7 +44,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Java",
+    title: "Node.js Developer",
     icon: backend,
   },
   {
@@ -99,6 +100,19 @@ const experiences = [
       "Assisted in troubleshooting and resolving complex technical issues, improving system performance and user experience.",
       "Conducted research on emerging AWS features, providing insights that informed team strategies and enhancements.",
       "Received guidance from industry professionals, gaining insights into cloud computing and career development in tech.",
+    ],
+  },
+  {
+    title: "Busniess Analyst",
+    company_name: "The Webiste Makers",
+    icon: TWM,
+    iconBg: "#383E76",
+    date: "Jun 2025 - Sep 2025",
+    points: [
+      "Engaging with clients to understand their website needs and proposing tailored solutions.",
+      "Acted as a bridge between clients and developers to ensure smooth communication and project delivery. ",
+      "Guided developers with requirements and feedback to align technical work with client expectations..",
+      "Managed CRM entries, follow-ups, and campaign responses, improving product–market fit through client insights. ",
     ],
   },
 ];
@@ -195,12 +209,12 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name:"springboot",
-        color:"green-text-gradient",
+        name: "springboot",
+        color: "green-text-gradient",
       },
       {
-        name:"SQL",
-        color:"white-text-gradient",
+        name: "SQL",
+        color: "white-text-gradient",
       }
     ],
     image: bankera,
@@ -220,8 +234,8 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name:"python",
-        color:"blue-text-gradient",
+        name: "python",
+        color: "blue-text-gradient",
       }
     ],
     image: Weather_API,
@@ -241,8 +255,8 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name:"Loacl-Storage",
-        color:"green-text-gradient",
+        name: "Loacl-Storage",
+        color: "green-text-gradient",
       }
     ],
     image: RBAC_UI,

@@ -12,13 +12,13 @@ import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import reactjs from "./tech/reactjs.png";
 import tailwind from "./tech/tailwind.png";
-
 import carrent from "./Shopping_Cart.png";
 import jobit from "./OTT_player.png";
 import tripguide from "./Netfilx_Clone.png";
 import bankera from './Bankera.png';
 import Weather_API from './Weather_API.png';
 import RBAC_UI from './RBAC_UI.png';
+import TWM from './tech/TWM.jpg';
 
 export {
   logo,
@@ -41,4 +41,5 @@ export {
   bankera,
   Weather_API,
   RBAC_UI,
+  TWM
 };

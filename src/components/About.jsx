@@ -41,13 +41,9 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am a passionate and dedicated front-end developer with a solid foundation in HTML, CSS, and JavaScript. 
-        My journey into web development began with a fascination for creating visually appealing and user-friendly websites. 
-        Over the past year, I have honed my skills by working on various personal projects, 
-        where I utilized frameworks like React.js to build dynamic, responsive applications.
-        I'm quick learner and collaborate closely with team to create efficient, scalable & user-friendly solutions
-        to solve real-world problems.
-        Let us collaborate to realize your vision.
+        I am a passionate Full Stack Developer (MERN) with strong skills in HTML, CSS, JavaScript, React.js, Node.js, Express, and MongoDB. 
+        I enjoy building responsive, user-friendly, and scalable applications that solve real-world problems. 
+        A quick learner and team player, I’m always eager to take on new challenges and create impactful solutions.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
