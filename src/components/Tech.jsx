@@ -1,11 +1,12 @@
 import { BallCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
+import { styles } from '../styles';
 import { technologies } from "../constants";
 
 const Tech = () => {
   return (
     <>
-      <h1 className="relative text-4xl bottom-12 font-semibold tracking-wider">Technical Skills</h1>
+      <h1 className={styles.sectionHeadText}>Technical Skills</h1>
       <div className="flex flex-row flex-wrap justify-center gap-10">
         {
           technologies.map((technology) => (
