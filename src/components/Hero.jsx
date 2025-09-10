@@ -33,7 +33,6 @@ const Hero = () => {
           </div>
         </a>
       </div>
-      <a href='https://drive.google.com/file/d/1WtHlahc8sDMk8-1cMPGr9uKg4-FOyGtf/view?usp=sharing' className='absolute top-80 left-56 border-b-2 underline-offset-2 hover:text-green-500'>View Resume</a>
     </section>
   )
 }

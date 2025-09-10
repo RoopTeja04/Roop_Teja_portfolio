@@ -15,15 +15,6 @@ const Tech = () => {
           ))
         }
       </div>
-      <div className="mt-24">
-        <h1 className="relative text-4xl bottom-12 font-semibold tracking-wider">Non-Technical Skills</h1>
-        <div className="flex flex-col ml-8 space-y-4">
-          <li className="text-base tracking-wider">Communication</li>
-          <li className="text-base tracking-wider">Problem-Solving & Critical Thinking</li>
-          <li className="text-base tracking-wider">Teamwork & Collaboration</li>
-          <li className="text-base tracking-wider">Time Management & Organization</li>
-        </div>
-      </div>
     </>
   )
 }

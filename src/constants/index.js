@@ -16,7 +16,9 @@ import {
   bankera,
   Weather_API,
   RBAC_UI,
-  TWM
+  TWM,
+  LMS_Emp,
+  WP
 } from "../assets";
 
 export const navLinks = [
@@ -103,7 +105,7 @@ const experiences = [
     ],
   },
   {
-    title: "Busniess Analyst",
+    title: "Busniess Analyst & Busniess Development - Intern",
     company_name: "The Webiste Makers",
     icon: TWM,
     iconBg: "#383E76",
@@ -158,42 +160,50 @@ const projects = [
     source_code_link: "https://github.com/RoopTeja04/ShoppingZone_app.git",
   },
   {
-    name: "OTT Player",
+    name: "Wellness Session",
     description:
-      "The OTT Player Web Application is a dynamic and versatile streaming platform built with React.js, designed to provide users wide range of content. This application aims to deliver an engaging viewing experience.",
+      "A full-stack wellness platform demonstrates your ability to build end-to-end applications, handle user data, and perhaps implement authentication, implemented CURD operations and final sentiment analysis.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "react-swiper",
+        name: "node",
+        color: "green-text-gradient",
+      },
+      {
+        name: "MongoDB",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: WP,
+    source_code_link: "https://github.com/RoopTeja04/Wellness_Session_Platform_Full_Stack_App",
+  },
+  {
+    name: "Leave Management",
+    description:
+      "A practical, business-oriented app—useful for showcasing CRUD operations, dashboard or form handling, and logic related to leave tracking. Sending notifications to employees when their leave is approved or rejected.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "node",
         color: "green-text-gradient",
       },
       {
         name: "css",
         color: "pink-text-gradient",
       },
-    ],
-    image: jobit,
-    source_code_link: "https://github.com/RoopTeja04/Ott_Player_React.js.git",
-  },
-  {
-    name: "Netflix Clone",
-    description:
-      "The Netflix Clone Web App is a modern streaming platform developed with React.js, designed the core features of Netflix. This application offers movies and TV shows, a UI, and an engaging viewing experience.",
-    tags: [
       {
-        name: "Reactjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
+        name: "mongoDB",
+        color: "white-text-gradient",
+      }
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/RoopTeja04/Netflix_Clone.git",
+    image: LMS_Emp,
+    source_code_link: "https://github.com/RoopTeja04/Employee_Leave_Manager",
   },
   {
     name: "Bankera",
@@ -255,7 +265,7 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name: "Loacl-Storage",
+        name: "local-Storage",
         color: "green-text-gradient",
       }
     ],

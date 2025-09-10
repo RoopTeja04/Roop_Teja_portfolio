@@ -19,6 +19,8 @@ import bankera from './Bankera.png';
 import Weather_API from './Weather_API.png';
 import RBAC_UI from './RBAC_UI.png';
 import TWM from './tech/TWM.jpg';
+import LMS_Emp from './Employee_Dashboard.png';
+import WP from './wellness_planner.png';
 
 export {
   logo,
@@ -41,5 +43,7 @@ export {
   bankera,
   Weather_API,
   RBAC_UI,
-  TWM
+  TWM,
+  LMS_Emp,
+  WP
 };
